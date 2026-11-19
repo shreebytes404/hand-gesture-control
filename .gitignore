@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+venv/
+.venv/
+hand_detection_module.py
+main.py
